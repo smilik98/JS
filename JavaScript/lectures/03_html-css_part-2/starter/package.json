@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "8.6.5",
+    "parcel-bundler": "1.9.4",
+    "postcss-custom-properties": "7.0.0",
+    "postcss-nested": "3.0.0",
+    "postcss-preset-env": "5.2.1"
+  }
+}

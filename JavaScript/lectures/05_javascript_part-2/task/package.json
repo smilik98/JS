@@ -1,0 +1,14 @@
+{
+  "name": "js-part2-task",
+  "version": "1.0.0",
+  "description": "Simple task for Startup Summer 2018",
+  "main": "task.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "filipochka97",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
